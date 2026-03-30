@@ -1,9 +1,5 @@
 # 📈 Stock Market Performance Analysis — S&P 500
 
-/var/folders/yd/h5y9yl752gd_kj7zhtdlxb5h0000gn/T/TemporaryItems/NSIRD_screencaptureui_Cxc0W1/Screenshot 2026-03-30 at 19.43.50.png
-
-/var/folders/yd/h5y9yl752gd_kj7zhtdlxb5h0000gn/T/TemporaryItems/NSIRD_screencaptureui_hML4gH/Screenshot 2026-03-30 at 19.44.33.png
-
 ## 📌 Project Overview
 
 This project performs an end-to-end stock market analysis on **600,000+ rows** of historical S&P 500 data covering **484 companies** across **11 sectors** from **2013 to 2018**.
